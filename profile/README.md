@@ -26,11 +26,11 @@ We welcome developers, designers, and enthusiasts to join our vibrant community.
 
 ## Connect With Us 🌐
 
-- **Website:** https://cmhq.tech
+- **Website:** https://codeharborhub.github.io/
 
 - **GitHub**: [HTML Mastery on GitHub](https://github.com/HTML-Mastery) 🐙
 
-- **Twitter**: [Follow us on Twitter](https://twitter.com/AJAYDHA27250016) 🐦
+- **Twitter**: [Follow us on Twitter](https://x.com/CodesWithAjay) 🐦
 
 - **Discord**: Join our [Discord](https://discord.gg/QH5gkhbd) community to connect with like-minded individuals, ask questions, and share your experiences. 💬
 
